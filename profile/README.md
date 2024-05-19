@@ -1,10 +1,10 @@
 # Bienvenido a Miralo Tech 👋
 
-¡Hola! Somos Miralo, una startup con el objetivo de mejorar la experiencia gastronomica inicialmente en Colombia y con visión a conquistar todo el mercado latinoamericano. 
+¡Hola! Somos Miralo, firma de software en crecimiento con varios proyectos que buscan democratizar la tecnologia y hacerla accesible para todos los emprendedores. 
 
 ## Acerca de nosotros
 
-Queremos ser una de las plataformas de reservas y pagos mas completas del mercado latinoamericano, solo que nos queremos enfocar 100% en el sector gastronomico para poder mejorar la experiencia de cada persona. También mejorar y facilitar la gestion de reservas, compras y pagos de los restaurantes afiliados.
+Queremos llegar a todos los rincones de Colombia y digitalizar todos los negocios sin importar su tamaño, hacerlos crecer y automatizar procesos que pueden ahorrar tiempo y dinero.
 
 ---
 
