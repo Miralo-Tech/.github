@@ -1,6 +1,6 @@
-# Bienvenido a Miralo Tech 👋
+# Bienvenido a Caramba Tech 👋
 
-¡Hola! Somos Miralo, firma de software en crecimiento con varios proyectos que buscan democratizar la tecnologia y hacerla accesible para todos los emprendedores. 
+¡Hola! Somos Caramba, firma de software en crecimiento con varios proyectos que buscan democratizar la tecnologia y hacerla accesible para todos los emprendedores del sector gastronomico. 
 
 ## Acerca de nosotros
 
